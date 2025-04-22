@@ -207,17 +207,12 @@
   {
     "pregunta": "¿Qué contiene un núcleo atómico?",
     "respuestas": ["Protones", "Neutrones", "Ambas son correctas", "Ambas son incorrectas"],
-    "respuesta_correcta": " Ambas son correctas "
+    "respuesta_correcta": "Ambas son correctas"
   },
   {
     "pregunta": "¿Cuál de estas frutas es rica en vitamina C?",
     "respuestas": ["Naranja", "Manzana", "Ambas son correctas", "Ambas son incorrectas"],
     "respuesta_correcta": "Naranja"
-  },
-  {
-    "pregunta": "¿Qué planeta es conocido como el 'gigante gaseoso'?",
-    "respuestas": ["Saturno", "Marte", "Ambas son correctas", "Ambas son incorrectas"],
-    "respuesta_correcta": " Ambas son incorrectas "
   },
   {
     "pregunta": "¿Cuál es la capital de Canadá?",
@@ -361,8 +356,8 @@
   },
   {
     "pregunta": "1000",
-    "respuestas": ["Centímetros de un metro", "Segundos de una hora", "Resultado de 999 + 11", "El único número sin 'e' ni  'o'"],
-    "respuesta_correcta": " El único número sin 'e' ni  'o'"
+    "respuestas": ["Centímetros de un metro", "Segundos de una hora", "Resultado de 999 + 11", "El único número sin 'e' ni 'o'"],
+    "respuesta_correcta": "El único número sin 'e' ni 'o'"
   },
   {
     "pregunta": "Número de músculos en el cuerpo humano",
@@ -432,7 +427,7 @@
   {
     "pregunta": "¿Qué animal tiene más corazones?",
     "respuestas": ["Pulpo", "Calamar", "Gusano de tierra", "Lamprea"],
-    "respuesta_correcta": " Gusano de tierra "
+    "respuesta_correcta": "Gusano de tierra"
   },
   {
     "pregunta": "¿En qué deporte se usa un bate y una pelota pequeña?",
