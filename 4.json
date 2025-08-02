@@ -493,5 +493,80 @@
     "pregunta": "¿Qué científica ganó dos premios Nobel en distintas disciplinas?",
     "respuestas": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Jane Goodall"],
     "respuesta_correcta": "Marie Curie"
+  } ,
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+    "respuestas": ["Canadá", "China", "Estados Unidos", "Rusia"],
+    "respuesta_correcta": "Rusia"
+  },
+  {
+    "pregunta": "¿Qué órgano del cuerpo humano consume más energía?",
+    "respuestas": ["Corazón", "Hígado", "Cerebro", "Pulmones"],
+    "respuesta_correcta": "Cerebro"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+    "respuestas": ["Mario Vargas Llosa", "Gabriel García Márquez", "Isabel Allende", "Jorge Luis Borges"],
+    "respuesta_correcta": "Gabriel García Márquez"
+  },
+  {
+    "pregunta": "¿Cuál es el metal más ligero?",
+    "respuestas": ["Aluminio", "Litio", "Titanio", "Magnesio"],
+    "respuesta_correcta": "Litio"
+  },
+  {
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuestas": ["Grecia", "Italia", "España", "Portugal"],
+    "respuesta_correcta": "Italia"
+  },
+  {
+    "pregunta": "¿Cuál es el animal terrestre más rápido?",
+    "respuestas": ["León", "Antílope", "Guepardo", "Caballo"],
+    "respuesta_correcta": "Guepardo"
+  },
+  {
+    "pregunta": "¿Qué instrumento mide los sismos?",
+    "respuestas": ["Barómetro", "Sismógrafo", "Anemómetro", "Altímetro"],
+    "respuesta_correcta": "Sismógrafo"
+  },
+  {
+    "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+    "respuestas": ["Inglés", "Hindi", "Español", "Chino mandarín"],
+    "respuesta_correcta": "Chino mandarín"
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana?",
+    "respuestas": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Helio"],
+    "respuesta_correcta": "Oxígeno"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+    "respuestas": ["Asia", "África", "Oceanía", "América"],
+    "respuesta_correcta": "África"
+  },
+  {
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuestas": ["Ag", "Au", "Pb", "Fe"],
+    "respuesta_correcta": "Au"
+  },
+  {
+    "pregunta": "¿Qué planeta tiene los anillos más visibles?",
+    "respuestas": ["Urano", "Saturno", "Júpiter", "Neptuno"],
+    "respuesta_correcta": "Saturno"
+  },
+  {
+    "pregunta": "¿Qué país inventó el papel?",
+    "respuestas": ["Egipto", "India", "China", "Grecia"],
+    "respuesta_correcta": "China"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Canadá?",
+    "respuestas": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "respuesta_correcta": "Ottawa"
+  },
+  {
+    "pregunta": "¿Qué tipo de animal es una orca?",
+    "respuestas": ["Pez", "Mamífero", "Reptil", "Molusco"],
+    "respuesta_correcta": "Mamífero"
   }
-]
+  ]
